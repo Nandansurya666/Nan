@@ -53,6 +53,7 @@ public class Main {
 
 SwapNumbers
 
+
 public class SwapNumbers {
 
     public static void main(String[] args) {
@@ -72,6 +73,7 @@ public class SwapNumbers {
 
 
 Sorting
+
 
 public class SortAsc {    
     public static void main(String[] args) {            
@@ -101,6 +103,7 @@ public class SortAsc {
 
 
 Pyramid
+
 
 public class Main {
 
