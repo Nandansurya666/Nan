@@ -1,5 +1,6 @@
 ReverseString
 
+
 public class Main {
   public static void main(String[] args) {
     String originalStr = "Hello";
@@ -16,6 +17,7 @@ public class Main {
 
 
 Palindrome
+
 
 import java.util.Scanner;
 class Palindrome
@@ -72,6 +74,7 @@ public class SwapNumbers {
 }
 
 
+
 Sorting
 
 
@@ -100,6 +103,7 @@ public class SortAsc {
         }    
     }    
 }    
+
 
 
 Pyramid
